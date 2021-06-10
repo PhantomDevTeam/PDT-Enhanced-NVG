@@ -2,7 +2,7 @@
  Custom NVG effects I made for my unit and decided to make public.
 
 ### See license for on that stuff
-  The jist of it is do whatever you want 
+  The gist of it is do whatever you want 
 
 ### CBA Settings
 CBA settings can be accessed through "Esc > Configure > Addon Option > Fawks' Enhanced NVGs". 
