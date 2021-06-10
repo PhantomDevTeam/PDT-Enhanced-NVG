@@ -5,7 +5,9 @@
   The jist of it is do whatever you want 
 
 ### CBA Settings
-CBA settings can be accessed through "Esc > Configure > Addon Option > Fawks' Enhanced NVGs". Note you have to be in-game or in the editor to change settings.
+CBA settings can be accessed through "Esc > Configure > Addon Option > Fawks' Enhanced NVGs". 
+Note you have to be in-game or in the editor to change settings.
+If you change the NVG Effects while in using NVGs you will need to turn them off then backon again to upadate the effect.
 
 Setting                    | Value | Description
 ---------------------------| ------|------------
