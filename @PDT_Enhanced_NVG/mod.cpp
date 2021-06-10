@@ -1,0 +1,12 @@
+name 			   = "Fawks's Enhanced NVGs";
+author 		   = "PDT";
+logo 			   = "\pdt_enhanced_nvg\data\enhanced_nvg_logo.paa";
+logoOver     = "\pdt_enhanced_nvg\data\enhanced_nvg_logo.paa";
+tooltip 		 = "PDT_EN_NVG";
+tooltipOwned = "PDT_EN_NVG";
+picture 		 = "\pdt_enhanced_nvg\data\enhanced_nvg_picture.paa";
+overview 		 = "Custom NVG effects I made for my unit and decided to make public.";
+hideName 		 = 0;
+hidePicture	 = 0;
+dlcColor[] 	 = {0, 0, 0, 1};
+logoSmall 	 = "\pdt_enhanced_nvg\data\enhanced_nvg_logo_small.paa";
