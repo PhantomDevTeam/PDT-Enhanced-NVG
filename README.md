@@ -12,7 +12,7 @@ If you change the NVG Effects while in using NVGs you will need to turn them off
 Setting                    | Value | Description
 ---------------------------| ------|------------
 Use ACE color preset       | Yes/No| If you're using ACE it's recomended to turn this on; uses brighter colors for the effects
-NVG Effect                 |Green Phosphern, White Phospher, MW Phospher| GB = no effect; WP = standard WP; MW = green-tint WP
+NVG Effect                 |None, Green Phospher, White Phospher, MW Phospher, Amber filter| None = no effect; GB = better GP; WP = standard WP; MW = green-tint WP; Amber = Amber filter
 Blacklisted NVG class names|Nothing| Pretty simple here, put the classnames of NVGs you only want to use GP.
 
 #### Steam Workshop link
