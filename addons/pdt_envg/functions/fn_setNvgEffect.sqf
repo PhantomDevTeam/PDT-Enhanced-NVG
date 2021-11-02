@@ -44,7 +44,7 @@ if !(_nvgEffect isEqualTo []) then {
   if (!isNull findDisplay 312) exitWith {    // did the player enter Zeus
     [] spawn {                               // yes, so spawn some code
       waitUntil {isNull findDisplay 312};    // wait until they exit Zeus
-      call PDT_EnhancedNVG_fnc_setNvgEffect; // re-call the setNvgEffect function
+      call PDT_ENVG_fnc_setNvgEffect;        // re-call the setNvgEffect function
 
       /* note on the above: normally you need to spawn the function since it needs
          to be able to suspend but since we are calling it in a schedualled
